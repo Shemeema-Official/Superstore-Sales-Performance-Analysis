@@ -38,13 +38,3 @@ To replicate this analysis, the following structure and files are required:
 | `data/Sample - Superstore.csv` | The primary dataset used for this project. |
 | `README.md` | This description file. |
 | `LICENSE` | (Optional but recommended) A file defining the licensing for your work (e.g., MIT, Apache 2.0). |
-
-## 🚀 Getting Started
-
-1.  Clone the repository:
-    ```bash
-    git clone [Your Repository URL]
-    ```
-2.  Navigate to the project directory.
-3.  Ensure you have the necessary libraries installed (e.g., `pip install pandas matplotlib seaborn`).
-4.  Open and run the `Superstore_Sales_Analysis.ipynb` notebook in your preferred environment (Jupyter Lab, VS Code, Google Colab, etc.).
